@@ -68,7 +68,7 @@ public class E_Practice {
 //        +) 공백은 4부터 0까지 -1씩 감소: rows - i(조건)
 //        +) 별은 1부터 5까지 +1씩 증가: 행을 초과하지 않도록 반복
         
-        int rows = 5; //출력할 줄의 수
+        int rows = 5; // 출력할 줄의 수
 
         for (int i = 1; i <= rows; i++) {
 //            각 행의 반복

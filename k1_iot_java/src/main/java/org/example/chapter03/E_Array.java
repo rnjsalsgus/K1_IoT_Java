@@ -13,7 +13,7 @@ import java.util.Arrays;
 
 public class E_Array {
     public static void main(String[] args) {
-//          자바의 정적 배영
+//          자바의 정적 배열
         int[] numbers = new int[5];
         System.out.println(Arrays.toString(numbers)); // [0, 0, 0, 0, 0]
 

@@ -42,6 +42,7 @@ public class F_Practice {
 
         list.add(3, 50);
         System.out.println(list); // [2, 4, 6, 50, 8, 10]
+        System.out.println(list.get(3));
         
 //        cf) 존재하지 않는 인덱스에 접근하면 예외 발생 (IndexOutOfBoundsException)
     }
